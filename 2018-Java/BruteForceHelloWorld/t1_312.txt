@@ -1,0 +1,314 @@
+run:
+G1: g
+G2: y
+G3: c
+G4: j
+G5: s
+G6: o
+G7: g
+G8: r
+G9: ,
+G10: y
+G11: !
+G12: p
+G13: c
+G14: r
+G15: f
+G16: f
+G17:  
+G18: p
+G19:  
+G20: r
+G21: n
+G22: w
+G23: n
+G24: !
+G25: y
+G26: q
+G27: f
+G28: x
+G29: H
+G30: Hu
+G31: Hu
+G32: Hf
+G33: Hg
+G34: Hn
+G35: Hn
+G36: Hp
+G37: Hf
+G38: Hg
+G39: Hp
+G40: Hq
+G41: Hn
+G42: Hp
+G43: Hx
+G44: Ht
+G45: Hf
+G46: Ht
+G47: Hs
+G48: Hg
+G49: Hs
+G50: H!
+G51: Hm
+G52: Hp
+G53: Hn
+G54: Hk
+G55: Hf
+G56: Hl
+G57: Hf
+G58: Hm
+G59: Ht
+G60: Hr
+G61: H,
+G62: Hy
+G63: H!
+G64: HH
+G65: Hb
+G66: H,
+G67: Hq
+G68: Hw
+G69: Hg
+G70: Hs
+G71: Hs
+G72: Hm
+G73: Hi
+G74: Hq
+G75: Hy
+G76: Hk
+G77: H,
+G78: Hw
+G79: Hw
+G80: Ht
+G81: Hc
+G82: Hk
+G83: Hs
+G84: Ht
+G85: Hn
+G86: Ha
+G87: Hw
+G88: Hj
+G89: Hr
+G90: Hr
+G91: Hc
+G92: HH
+G93: Hy
+G94: Hk
+G95: Hz
+G96: Hl
+G97: Hl
+G98: Hf
+G99: Hk
+G100: Hw
+G101: Hs
+G102: Hg
+G103: H,
+G104: Hq
+G105: Hm
+G106: Hf
+G107: Hm
+G108: Hl
+G109: Hz
+G110: Ho
+G111: HH
+G112: H!
+G113: HH
+G114: Hi
+G115: Hu
+G116: H,
+G117: Hr
+G118: Hf
+G119: Hn
+G120: Ht
+G121: Hf
+G122: Hf
+G123: Hu
+G124: Hu
+G125: Hu
+G126: Hf
+G127: Hl
+G128: Hc
+G129: Hn
+G130: H 
+G131: Hu
+G132: Hg
+G133: Ho
+G134: HH
+G135: Hy
+G136: He
+G137: Hel
+G138: Helr
+G139: Helm
+G140: HelH
+G141: Helb
+G142: Helx
+G143: Helo
+G144: Helt
+G145: Helf
+G146: Helk
+G147: Hel!
+G148: Helc
+G149: Hel 
+G150: Helt
+G151: Help
+G152: Help
+G153: Heln
+G154: Hele
+G155: Helt
+G156: Helq
+G157: Hela
+G158: Heln
+G159: Hely
+G160: Held
+G161: Hely
+G162: Helf
+G163: Helq
+G164: Hel!
+G165: Hell
+G166: Hellm
+G167: Hellj
+G168: Helld
+G169: Helli
+G170: Helld
+G171: Hellp
+G172: Helli
+G173: Hellx
+G174: Hellf
+G175: Helli
+G176: Hellr
+G177: Hellv
+G178: Hellf
+G179: Hellj
+G180: Hell 
+G181: Hellf
+G182: Hellf
+G183: Hellu
+G184: Hellx
+G185: HellH
+G186: Hellu
+G187: Helln
+G188: Helly
+G189: Hellr
+G190: HellH
+G191: Hell!
+G192: Helln
+G193: Hellj
+G194: Hellj
+G195: Hellq
+G196: Hellz
+G197: Hellv
+G198: Hello
+G199: Helloc
+G200: Hello,
+G201: Hello,f
+G202: Hello,f
+G203: Hello,y
+G204: Hello,v
+G205: Hello,f
+G206: Hello,k
+G207: Hello, 
+G208: Hello, a
+G209: Hello, e
+G210: Hello, z
+G211: Hello, ,
+G212: Hello, e
+G213: Hello, ,
+G214: Hello, f
+G215: Hello, p
+G216: Hello, c
+G217: Hello, a
+G218: Hello, m
+G219: Hello, y
+G220: Hello, k
+G221: Hello, w
+G222: Hello, wp
+G223: Hello, ww
+G224: Hello, w 
+G225: Hello, wf
+G226: Hello, ww
+G227: Hello, wy
+G228: Hello, wv
+G229: Hello, w,
+G230: Hello, wb
+G231: Hello, wq
+G232: Hello, we
+G233: Hello, wg
+G234: Hello, wf
+G235: Hello, w,
+G236: Hello, wz
+G237: Hello, wr
+G238: Hello, w 
+G239: Hello, wk
+G240: Hello, wq
+G241: Hello, wp
+G242: Hello, wq
+G243: Hello, w 
+G244: Hello, wH
+G245: Hello, wz
+G246: Hello, wi
+G247: Hello, wl
+G248: Hello, wg
+G249: Hello, wy
+G250: Hello, wt
+G251: Hello, wH
+G252: Hello, wi
+G253: Hello, w,
+G254: Hello, wz
+G255: Hello, wd
+G256: Hello, wy
+G257: Hello, wu
+G258: Hello, wx
+G259: Hello, wd
+G260: Hello, wm
+G261: Hello, wk
+G262: Hello, wm
+G263: Hello, ww
+G264: Hello, wo
+G265: Hello, wok
+G266: Hello, wo 
+G267: Hello, wom
+G268: Hello, wov
+G269: Hello, wor
+G270: Hello, worH
+G271: Hello, wore
+G272: Hello, worg
+G273: Hello, woru
+G274: Hello, worj
+G275: Hello, worl
+G276: Hello, worlq
+G277: Hello, worlz
+G278: Hello, worlc
+G279: Hello, world
+G280: Hello, worldd
+G281: Hello, worldi
+G282: Hello, worldx
+G283: Hello, worlda
+G284: Hello, worldm
+G285: Hello, worldH
+G286: Hello, worlda
+G287: Hello, world 
+G288: Hello, worldf
+G289: Hello, worldd
+G290: Hello, worldq
+G291: Hello, worlde
+G292: Hello, worldw
+G293: Hello, worldr
+G294: Hello, worldt
+G295: Hello, worldg
+G296: Hello, worlds
+G297: Hello, worlds
+G298: Hello, worldr
+G299: Hello, worldk
+G300: Hello, worldy
+G301: Hello, worldH
+G302: Hello, worldk
+G303: Hello, worldt
+G304: Hello, worldH
+G305: Hello, worldf
+G306: Hello, worldb
+G307: Hello, worldy
+G308: Hello, worldH
+G309: Hello, worldr
+G310: Hello, worldy
+G311: Hello, world 
+G312: Hello, world!
+CONSTRUÍDO COM SUCESSO (tempo total: 0 segundos)

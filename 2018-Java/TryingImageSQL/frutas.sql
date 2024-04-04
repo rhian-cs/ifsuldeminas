@@ -1,0 +1,3 @@
+CREATE DATABASE frutas;
+USE frutas;
+CREATE TABLE imagens(img LONGBLOB) ENGINE = InnoDB;
