@@ -12,7 +12,7 @@ Mantenho este repositório apenas como um arquivo, para relembrar como eu progra
 
 ## Alguns Destaques
 
-<center><h3>Projeto de Programação Orientada a Objetos - Interface Gráfica</h3></center>
+<center><h3>Exercício de Programação Orientada a Objetos - Interface Gráfica</h3></center>
 
 ![Projeto Java - Interface Completa](docs/img/01-InterfaceCompleta.png)
 
